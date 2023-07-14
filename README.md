@@ -22,4 +22,4 @@
 
 Apaixonado por tecnologia e agora, estudante de programação
 
-![Snake animation](https://github.com/jottakayo/jottakayo)
+![Snake animation](https://github.com/jottakayo/jottakayo/blob/output/github-contribution-grid-snakesvg))
