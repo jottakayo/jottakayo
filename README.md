@@ -21,5 +21,3 @@
     </div><br/>
 
 Apaixonado por tecnologia e agora, estudante de programação
-
-![Snake gif](https://github.com/jottakayo/jottakayo/blob/output/github-contribution-grid-snake.svg)
