@@ -1,4 +1,4 @@
-### Olá, eu sou o Jotta Kayo 👋.
+### Olá, eu sou Jotta Kayo 👋.
 <div>
 
 <a href="https://stackoverflow.com/users/22223962/jottaky" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
