@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Jotta Kayo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=C9A227&size=28&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Golang+Developer;Cloud+Enthusiast;Automation+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=C9A227&size=28&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Golang+Developer;Cloud;Automation+Lover" />
 </p>
 
 <p align="center">
