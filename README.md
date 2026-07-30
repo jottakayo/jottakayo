@@ -6,7 +6,7 @@
 
 <p align="center">
   DevOps & Golang Developer <br>
-  Automação • CI/CD • Cloud • Containers • APIs
+  Automação • CI/CD • Cloud • Containers
 </p>
 
 ---
